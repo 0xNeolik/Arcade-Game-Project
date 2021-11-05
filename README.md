@@ -14,7 +14,7 @@ Click here to play game: https://alvaroteran-developer.github.io/Arcade-Game-Pro
 ## Descriptions:
 Villains have arrived the city, they want attack the citizens. 
 You are Hulk and you should protect the citizens of the enemies. You can move on the all board.
-Citizens should go to the tower to save them. There are 5 level: Each level start when the number of citizens saved are 10. But, you lose if the enemies overcomes 10 citizens eliminated.
+Citizens should go to the tower to save. There are 5 level: Each level start when the number of citizens saved are 10. But, you lose if the enemies overcomes 10 citizens eliminated.
 Your goal: 60 citizens saved.
 
 ## Technology:
