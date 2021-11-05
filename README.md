@@ -19,9 +19,9 @@ Your goal: 60 citizens saved.
 
 ## Technology:
 <ul>
-    <li>Html5.</li>
-    <li>-Css3.</li>
-    <li>Javascript.</li>
+    <li>&#x1f4d5; Html5.</li>
+    <li>&#x1f4d7; Css3.</li>
+    <li>&#x1f4d8; Javascript.</li>
  </ul>
 
 ## Instructions:
@@ -39,8 +39,9 @@ Score:<br>
 Nº citizens saved<br>
 Nº citizens eliminated<br>
 Nº enemies eliminated.<br>
+
 If you lose you can play again.
-Do you want to try?
+
 
 
 ## Game:<br>
@@ -60,4 +61,6 @@ Do you want to try?
 -Potions:<br>
 <img width="1000" alt="Potions" src="https://user-images.githubusercontent.com/85538875/140372097-1de10844-4159-409f-97d5-dd36270016be.png">
 
+
+## Do you want to try? 
 
