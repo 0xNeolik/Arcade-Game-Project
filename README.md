@@ -1,6 +1,6 @@
 # Smash Them!
 
-¡Save the citizens! You should eliminate all enemies
+Save the citizens! You should eliminate all enemies
 
 ## Try demo:
 
