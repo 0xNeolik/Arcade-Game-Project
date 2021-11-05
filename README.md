@@ -13,10 +13,11 @@ Citizens should go to the tower to save them. There are 5 level: Each level star
 Your goal: 60 citizens saved.
 
 ## Technology:
-
--Html5.<br><br>
--Css3.<br><br>
--Javascript.
+<ul>
+    <li>Html5.</li><br><br>
+    <li>-Css3.</li><br><br>
+    <li>Javascript.</li>
+ </ul>
 
 ## Instructions:
 
