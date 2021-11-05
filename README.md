@@ -24,11 +24,11 @@ Your goal: 60 citizens saved.
 Use the arrow keysboard to move the player around the board with the goal to save all the citizens as possible by fight enemies.
 
 Bonus:
-<ul>
+
 1.Green potion: buff the speed player<br>
 2.Yellow potion: nerf the speed enemies.<br>
 3.Thanos glove: eliminate all the enemies on the screen.<br>
-<ul>
+
     
 Score:<br>
 Nº citizens saved<br>
