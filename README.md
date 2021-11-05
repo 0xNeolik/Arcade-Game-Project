@@ -1,6 +1,9 @@
 # Smash Them!
 
-Save the citizens! You should eliminate all enemies
+Save the citizens! You should eliminate all enemies. 
+
+![image](https://user-images.githubusercontent.com/87578305/140481406-23d0b5eb-90b3-418d-8d13-550de65c07f9.png)
+
 
 ## Try demo:
 
